@@ -10,7 +10,8 @@ function makeid(length) {
 }
 
 var urls = {
-  UsbHj: 'linkedin.com'
+  UsbHj: 'linkedin.com',
+  AbCsk: 'youtube.com'
 }
 
 function shorten_url(url) {
